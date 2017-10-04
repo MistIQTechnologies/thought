@@ -1,3 +1,3 @@
 # thought
-# The Thought Network blockain
+# The Thought Network blockchain
 # (c) 2017 MistIQ Technologies, Inc
